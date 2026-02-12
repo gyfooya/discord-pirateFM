@@ -1,0 +1,14 @@
+[Unit]
+Description=Discord APP - pirateFM
+Requires=network-online.target
+After=network-online.target
+
+[Service]
+Type=simple
+User=noname
+WorkingDirectory=/home/noname/discord-pirateFM
+ExecStart=/home/noname/discord-pirateFM/start.sh
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
