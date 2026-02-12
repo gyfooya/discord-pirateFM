@@ -1,0 +1,18 @@
+discord_bot_key: ""
+guild_id: ""
+voice_channel_id: ""
+icecast_url: "https://admin.stream.rinse.fm/proxy/rinse_uk/stream"
+
+# Optional settings
+default_volume: 20  # Default volume (0-100)
+max_playlist_size: 50  # Maximum tracks to add from a playlist
+auto_join_enabled: true  # Whether bot should auto-join when users join voice channel
+command_prefix: "!"  # Bot command prefix
+
+# Additional Icecast streams (optional)
+# You can add multiple streams for easy switching
+additional_streams:
+  - name: "100 Techno"
+    url: "https://1000techno.stream.laut.fm/1000techno"
+  - name: "Mabubeatz"
+    url: "http://audio.mabu-beatz-radio.com:8002/technoinmind"
