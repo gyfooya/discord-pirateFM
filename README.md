@@ -10,5 +10,5 @@ PirateRadio for Discord — a bot that streams radio/music/stream via Discord ch
 🛠️ Create Your Discord App
 https://discord.com/developers/applications
 https://docs.discord.com/developers/intro
-
 ```
+![Bot Screenshot](preview.png)
