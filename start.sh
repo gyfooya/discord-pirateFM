@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# chmod +x start.sh
 # sudo pacman -S ffmpeg
 set -e
 
