@@ -3,4 +3,5 @@ aiohttp
 pyyaml
 ffmpeg-python
 PyNaCl
-yt-dlg
+yt-dlp
+davey
