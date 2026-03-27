@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# sudo pacman -S ffmpeg
 set -e
 
 # USER Variable
